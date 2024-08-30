@@ -14,4 +14,7 @@ In the code folder, there are three experimental codes:
 
 The .sol files are the experimental results we obtained, and running the code directly can reproduce these results.
 
+Please note that the code is designed to run on Windows, so before running it, make sure to check if all file paths are correct.
+
+
 
