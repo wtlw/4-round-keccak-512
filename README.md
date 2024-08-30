@@ -6,4 +6,12 @@ Our tool requires the following software:
 
 [Gurobi](https://www.gurobi.com/) to solve our MILP models.
 
+In the code folder, there are three experimental codes:
+
+- **Experiment 1** is about "Consuming two degrees of freedom from the guess value."
+- **Experiment 2** is about "Consuming two degrees of freedom from the weak digest value."
+- **Experiment 3** is about "Consuming one degree of freedom from the weak digest value."
+
+The .sol files are the experimental results we obtained, and running the code directly can reproduce these results.
+
 
